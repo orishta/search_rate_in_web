@@ -7,6 +7,8 @@
 The Problem: A manual, time-consuming process on a web platform required hours of repetitive human interaction.
 
 The Solution: This project automates the entire workflow using Selenium. By emulating real user behavior, the script handles complex web elements and navigation that previously had to be done by hand.
+
+
 Tech Stack: Python, Selenium.![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-Headless%20Chrome-green?logo=selenium&logoColor=white)
 ![AI Powered](https://img.shields.io/badge/AI-Perplexity%20Sonar-purple)
